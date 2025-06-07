@@ -1,0 +1,7 @@
+# Ignorar directorios pesados y bases de datos
+01-Genomas_80_blactamasa_FAA/
+02-proteinortho/
+03-proteinortho-graph/
+04-tablas/
+05-figuras/
+CARD_database/
